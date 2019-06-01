@@ -1,0 +1,15 @@
+C:\Users\Ty\source\repos\UI_Testing_102058205\UI_Testing_102058205\bin\Debug\UI_Testing_102058205.exe.config
+C:\Users\Ty\source\repos\UI_Testing_102058205\UI_Testing_102058205\bin\Debug\UI_Testing_102058205.exe
+C:\Users\Ty\source\repos\UI_Testing_102058205\UI_Testing_102058205\bin\Debug\UI_Testing_102058205.pdb
+C:\Users\Ty\source\repos\UI_Testing_102058205\UI_Testing_102058205\obj\Debug\MainWindow.g.cs
+C:\Users\Ty\source\repos\UI_Testing_102058205\UI_Testing_102058205\obj\Debug\App.g.cs
+C:\Users\Ty\source\repos\UI_Testing_102058205\UI_Testing_102058205\obj\Debug\UI_Testing_102058205_MarkupCompile.cache
+C:\Users\Ty\source\repos\UI_Testing_102058205\UI_Testing_102058205\obj\Debug\UI_Testing_102058205_MarkupCompile.lref
+C:\Users\Ty\source\repos\UI_Testing_102058205\UI_Testing_102058205\obj\Debug\MainWindow.baml
+C:\Users\Ty\source\repos\UI_Testing_102058205\UI_Testing_102058205\obj\Debug\UI_Testing_102058205.g.resources
+C:\Users\Ty\source\repos\UI_Testing_102058205\UI_Testing_102058205\obj\Debug\UI_Testing_102058205.Properties.Resources.resources
+C:\Users\Ty\source\repos\UI_Testing_102058205\UI_Testing_102058205\obj\Debug\UI_Testing_102058205.csproj.GenerateResource.cache
+C:\Users\Ty\source\repos\UI_Testing_102058205\UI_Testing_102058205\obj\Debug\UI_Testing_102058205.csproj.CoreCompileInputs.cache
+C:\Users\Ty\source\repos\UI_Testing_102058205\UI_Testing_102058205\obj\Debug\UI_Testing_102058205.exe
+C:\Users\Ty\source\repos\UI_Testing_102058205\UI_Testing_102058205\obj\Debug\UI_Testing_102058205.pdb
+C:\Users\Ty\source\repos\UI_Testing_102058205\UI_Testing_102058205\obj\Debug\UI_Testing_102058205.csprojAssemblyReference.cache
