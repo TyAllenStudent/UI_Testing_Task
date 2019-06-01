@@ -13,3 +13,18 @@ C:\Users\Ty\source\repos\UI_Testing_102058205\UI_Testing_102058205\obj\Debug\UI_
 C:\Users\Ty\source\repos\UI_Testing_102058205\UI_Testing_102058205\obj\Debug\UI_Testing_102058205.exe
 C:\Users\Ty\source\repos\UI_Testing_102058205\UI_Testing_102058205\obj\Debug\UI_Testing_102058205.pdb
 C:\Users\Ty\source\repos\UI_Testing_102058205\UI_Testing_102058205\obj\Debug\UI_Testing_102058205.csprojAssemblyReference.cache
+C:\Dev Projects\UI_Testing_Task\UI_Testing_102058205\UI_Testing_102058205\bin\Debug\UI_Testing_102058205.exe.config
+C:\Dev Projects\UI_Testing_Task\UI_Testing_102058205\UI_Testing_102058205\bin\Debug\UI_Testing_102058205.exe
+C:\Dev Projects\UI_Testing_Task\UI_Testing_102058205\UI_Testing_102058205\bin\Debug\UI_Testing_102058205.pdb
+C:\Dev Projects\UI_Testing_Task\UI_Testing_102058205\UI_Testing_102058205\obj\Debug\UI_Testing_102058205.csprojAssemblyReference.cache
+C:\Dev Projects\UI_Testing_Task\UI_Testing_102058205\UI_Testing_102058205\obj\Debug\MainWindow.g.cs
+C:\Dev Projects\UI_Testing_Task\UI_Testing_102058205\UI_Testing_102058205\obj\Debug\App.g.cs
+C:\Dev Projects\UI_Testing_Task\UI_Testing_102058205\UI_Testing_102058205\obj\Debug\UI_Testing_102058205_MarkupCompile.cache
+C:\Dev Projects\UI_Testing_Task\UI_Testing_102058205\UI_Testing_102058205\obj\Debug\UI_Testing_102058205_MarkupCompile.lref
+C:\Dev Projects\UI_Testing_Task\UI_Testing_102058205\UI_Testing_102058205\obj\Debug\MainWindow.baml
+C:\Dev Projects\UI_Testing_Task\UI_Testing_102058205\UI_Testing_102058205\obj\Debug\UI_Testing_102058205.g.resources
+C:\Dev Projects\UI_Testing_Task\UI_Testing_102058205\UI_Testing_102058205\obj\Debug\UI_Testing_102058205.Properties.Resources.resources
+C:\Dev Projects\UI_Testing_Task\UI_Testing_102058205\UI_Testing_102058205\obj\Debug\UI_Testing_102058205.csproj.GenerateResource.cache
+C:\Dev Projects\UI_Testing_Task\UI_Testing_102058205\UI_Testing_102058205\obj\Debug\UI_Testing_102058205.csproj.CoreCompileInputs.cache
+C:\Dev Projects\UI_Testing_Task\UI_Testing_102058205\UI_Testing_102058205\obj\Debug\UI_Testing_102058205.exe
+C:\Dev Projects\UI_Testing_Task\UI_Testing_102058205\UI_Testing_102058205\obj\Debug\UI_Testing_102058205.pdb

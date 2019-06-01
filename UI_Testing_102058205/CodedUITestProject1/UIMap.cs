@@ -71,14 +71,14 @@
         /// <summary>
         /// Launch '%USERPROFILE%\source\repos\UI_Testing_102058205\UI_Testing_102058205\bin\Debug\UI_Testing_102058205.exe'
         /// </summary>
-        public string UIMainWindowWindowExePath = "C:\\Users\\Ty\\source\\repos\\UI_Testing_102058205\\UI_Testing_102058205\\bin\\Debug\\UI_T" +
+        public string UIMainWindowWindowExePath = "C:\\Dev Projects\\UI_Testing_Task\\UI_Testing_102058205\\UI_Testing_102058205\\bin\\Debug\\UI_T" +
             "esting_102058205.exe";
 
         /// <summary>
         /// Launch '%USERPROFILE%\source\repos\UI_Testing_102058205\UI_Testing_102058205\bin\Debug\UI_Testing_102058205.exe'
         /// </summary>
-        public string UIMainWindowWindowAlternateExePath = "%USERPROFILE%\\source\\repos\\UI_Testing_102058205\\UI_Testing_102058205\\bin\\Debug\\UI" +
-            "_Testing_102058205.exe";
+        public string UIMainWindowWindowAlternateExePath = "C:\\Dev Projects\\UI_Testing_Task\\UI_Testing_102058205\\UI_Testing_102058205\\bin\\Debug\\UI_T" +
+            "esting_102058205.exe";
 
         /// <summary>
         /// Select 'CheckBox' check box
